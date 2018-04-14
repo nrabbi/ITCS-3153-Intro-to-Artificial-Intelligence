@@ -6,8 +6,8 @@
 
 ### Assignment #2
 * A-Star Search
-* TBD
+* Java
 
 ### Assignment #3
 * Bomber Belts
-* TBD
+* Java
